@@ -1,0 +1,48 @@
+name: event_explorer
+description: A beautiful event discovery app
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # State Management
+  flutter_riverpod: ^2.4.0
+  
+  # HTTP & JSON
+  http: ^1.1.0
+  
+  # Local Storage
+  shared_preferences: ^2.2.2
+  
+  # UI
+  google_fonts: ^6.1.0
+  cached_network_image: ^3.3.0
+  
+  # Utils
+  intl: ^0.18.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.13.1
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+# Launcher icon configuration (Adaptive + legacy fallback)
+flutter_launcher_icons:
+  android: true
+  ios: false
+  # Fallback/legacy icon (used for older Android and to satisfy the tool)
+  image_path: assets/icon/app_icon_fg.png        # you can replace with a 1024x1024 later
+  # Adaptive icons for modern Android
+  adaptive_icon_foreground: assets/icon/app_icon_fg.png   # 432x432, transparent background
+  adaptive_icon_background: assets/icon/app_icon_bg.png   # 1080x1080 image (or use a solid color like "#FFFFFF")
+  adaptive_icon_monochrome: assets/icon/app_icon_mono.png # 432x432 pure black glyph (Android 13+ themed icons)
+  min_sdk_android: 21
