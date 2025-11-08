@@ -74,25 +74,6 @@ A modern event discovery and networking Flutter application inspired by 8club, f
 
 ---
 
-## 📚 Snapshots
-
-| ![sign-up-page](https://github.com/jagyanjit/Eventure/blob/main/snapshots/sign-up-page.jpg) | ![name-page](https://github.com/jagyanjit/Eventure/blob/main/snapshots/name-page.jpg) | ![home-page](https://github.com/jagyanjit/Eventure/blob/main/snapshots/home-page.jpg) | ![categories-arts](https://github.com/jagyanjit/Eventure/blob/main/snapshots/categories-arts.jpg) | ![categories-music](https://github.com/jagyanjit/Eventure/blob/main/snapshots/categories-music.jpg) | ![event-page](https://github.com/jagyanjit/Eventure/blob/main/snapshots/event-page.jpg) |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| **sign-up-page** | **name-page** | **home-page** | **categories-arts** | **categories-music** | **event-page** |
-
-
-| ![register-page](https://github.com/jagyanjit/Eventure/blob/main/snapshots/register-page.jpg) | ![bookmark-button](https://github.com/jagyanjit/Eventure/blob/main/snapshots/bookmark-button.jpg) | ![favorite-button](https://github.com/jagyanjit/Eventure/blob/main/snapshots/favorite-button.jpg) | ![left-side-bar](https://github.com/jagyanjit/Eventure/blob/main/snapshots/left-side-bar.jpg) | ![profile-page](https://github.com/jagyanjit/Eventure/blob/main/snapshots/profile-page.jpg) | ![bookmarks-page](https://github.com/jagyanjit/Eventure/blob/main/snapshots/bookmarks-page.jpg) |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| **register-page** | **bookmark-button** | **favorite-button** | **left-side-bar** | **profile-page** | **bookmarks-page** |
-
-
-| ![favorites-page](https://github.com/jagyanjit/Eventure/blob/main/snapshots/favorites-page.jpg) | ![event-history-page](https://github.com/jagyanjit/Eventure/blob/main/snapshots/event-history-page.jpg) | ![right-side-bar](https://github.com/jagyanjit/Eventure/blob/main/snapshots/right-side-bar.jpg) | ![settings-page](https://github.com/jagyanjit/Eventure/blob/main/snapshots/settings-page.jpg) | ![danger-zone](https://github.com/jagyanjit/Eventure/blob/main/snapshots/danger-zone.jpg) | ![logged-out](https://github.com/jagyanjit/Eventure/blob/main/snapshots/logged-out.jpg) |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| **favorites-page** | **event-history-page** | **right-side-bar** | **settings-page** | **danger-zone** | **logged-out** |
-
-
-
-
 ## 🛠 Tech Stack
 
 ### Core
