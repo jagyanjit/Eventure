@@ -4,20 +4,6 @@ A modern event discovery and networking Flutter application inspired by 8club, f
 
 ---
 
-## 📚 Table of Contents
-
-1. [Project Overview](https://lmarena.ai/c/019a52f7-f68e-7004-84bb-1b03af85eee7#project-overview)
-2. [Features](https://lmarena.ai/c/019a52f7-f68e-7004-84bb-1b03af85eee7#features)
-3. [Tech Stack](https://lmarena.ai/c/019a52f7-f68e-7004-84bb-1b03af85eee7#tech-stack)
-4. [Project Structure](https://lmarena.ai/c/019a52f7-f68e-7004-84bb-1b03af85eee7#project-structure)
-5. [Installation & Setup](https://lmarena.ai/c/019a52f7-f68e-7004-84bb-1b03af85eee7#installation--setup)
-6. [Complete File-by-File Code](https://lmarena.ai/c/019a52f7-f68e-7004-84bb-1b03af85eee7#complete-file-by-file-code)
-7. [Key Implementations](https://lmarena.ai/c/019a52f7-f68e-7004-84bb-1b03af85eee7#key-implementations)
-8. [Troubleshooting](https://lmarena.ai/c/019a52f7-f68e-7004-84bb-1b03af85eee7#troubleshooting)
-9. [Future Enhancements](https://lmarena.ai/c/019a52f7-f68e-7004-84bb-1b03af85eee7#future-enhancements)
-
----
-
 ## 🎯 Project Overview
 
 **Eventure** is a premium event discovery and networking platform built with Flutter. Users can browse through 42 carefully curated Indian events across 8 categories, bookmark events they're interested in, favorite events they love, and manage their profile with a beautiful Material 3 UI.
@@ -87,6 +73,25 @@ A modern event discovery and networking Flutter application inspired by 8club, f
 - **Dark/Light Mode** - Full theme support
 
 ---
+
+## 📚 Snapshots
+
+| ![sign-up-page](https://github.com/jagyanjit/Eventure/blob/main/snapshots/sign-up-page.jpg) | ![name-page](https://github.com/jagyanjit/Eventure/blob/main/snapshots/name-page.jpg) | ![home-page](https://github.com/jagyanjit/Eventure/blob/main/snapshots/home-page.jpg) | ![categories-arts](https://github.com/jagyanjit/Eventure/blob/main/snapshots/categories-arts.jpg) | ![categories-music](https://github.com/jagyanjit/Eventure/blob/main/snapshots/categories-music.jpg) | ![event-page](https://github.com/jagyanjit/Eventure/blob/main/snapshots/event-page.jpg) |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| **sign-up-page** | **name-page** | **home-page** | **categories-arts** | **categories-music** | **event-page** |
+
+
+| ![register-page](https://github.com/jagyanjit/Eventure/blob/main/snapshots/register-page.jpg) | ![bookmark-button](https://github.com/jagyanjit/Eventure/blob/main/snapshots/bookmark-button.jpg) | ![favorite-button](https://github.com/jagyanjit/Eventure/blob/main/snapshots/favorite-button.jpg) | ![left-side-bar](https://github.com/jagyanjit/Eventure/blob/main/snapshots/left-side-bar.jpg) | ![profile-page](https://github.com/jagyanjit/Eventure/blob/main/snapshots/profile-page.jpg) | ![bookmarks-page](https://github.com/jagyanjit/Eventure/blob/main/snapshots/bookmarks-page.jpg) |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| **register-page** | **bookmark-button** | **favorite-button** | **left-side-bar** | **profile-page** | **bookmarks-page** |
+
+
+| ![favorites-page](https://github.com/jagyanjit/Eventure/blob/main/snapshots/favorites-page.jpg) | ![event-history-page](https://github.com/jagyanjit/Eventure/blob/main/snapshots/event-history-page.jpg) | ![right-side-bar](https://github.com/jagyanjit/Eventure/blob/main/snapshots/right-side-bar.jpg) | ![settings-page](https://github.com/jagyanjit/Eventure/blob/main/snapshots/settings-page.jpg) | ![danger-zone](https://github.com/jagyanjit/Eventure/blob/main/snapshots/danger-zone.jpg) | ![logged-out](https://github.com/jagyanjit/Eventure/blob/main/snapshots/logged-out.jpg) |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| **favorites-page** | **event-history-page** | **right-side-bar** | **settings-page** | **danger-zone** | **logged-out** |
+
+
+
 
 ## 🛠 Tech Stack
 
